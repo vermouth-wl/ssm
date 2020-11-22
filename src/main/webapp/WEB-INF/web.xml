@@ -7,8 +7,8 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          id="WebApp_ID" version="3.1">
 
-  <display-name>SSMLoginDemo</display-name>
-  <description>SSMLoginDemo_alpha_0.0.1</description>
+  <display-name>ssm</display-name>
+  <description>ssm_alpha_0.0.1</description>
 
   <!-- 启动spring容器 -->
   <context-param>
